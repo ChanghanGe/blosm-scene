@@ -34,12 +34,10 @@
 
 	<shape type="ply" id="building" name="building">
 		<string name="filename" value="meshes/building.ply"/>
-		<boolean name="face_normals" value="true"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
 	<shape type="ply" id="terrain" name="terrain">
 		<string name="filename" value="meshes/terrain.ply"/>
-		<boolean name="face_normals" value="true"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
 
