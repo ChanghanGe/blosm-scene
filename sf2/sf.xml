@@ -32,11 +32,11 @@
 <!-- Shapes -->
 
 	<shape type="ply" id="mesh-Terrain" name="mesh-Terrain">
-		<string name="filename" value="meshes/Terrain.ply"/>
+		<string name="filename" value="meshes/terrain.ply"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
 	<shape type="ply" id="mesh-Building" name="mesh-Building">
-		<string name="filename" value="meshes/Building.ply"/>
+		<string name="filename" value="meshes/building.ply"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
 
