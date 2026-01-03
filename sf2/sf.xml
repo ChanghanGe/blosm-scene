@@ -31,12 +31,12 @@
 
 <!-- Shapes -->
 
-	<shape type="ply" id="terrain" name="terrain">
+	<shape type="ply" id="mesh-Terrain" name="mesh-Terrain">
 		<string name="filename" value="meshes/terrain.ply"/>
 		<boolean name="face_normals" value="true"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
-	<shape type="ply" id="building" name="building">
+	<shape type="ply" id="mesh-Building" name="mesh-Building">
 		<string name="filename" value="meshes/building.ply"/>
 		<boolean name="face_normals" value="true"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
