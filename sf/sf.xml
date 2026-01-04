@@ -36,8 +36,8 @@
 		<string name="filename" value="meshes/Terrain.ply"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
-	<shape type="ply" id="map_22_osm_buildings" name="map_22_osm_buildings">
-		<string name="filename" value="meshes/map_22_osm_buildings.ply"/>
+	<shape type="ply" id="Building" name="Building">
+		<string name="filename" value="meshes/Building.ply"/>
 		<ref id="mat-itu_concrete" name="bsdf"/>
 	</shape>
 

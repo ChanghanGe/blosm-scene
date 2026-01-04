@@ -26,6 +26,7 @@
 			<float name="specular" value="0.500000"/>
 		</bsdf>
 	</bsdf>
+	
 <!-- Emitters -->
 
 
